@@ -1,8 +1,5 @@
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
 ```typescript
 function formatMe() {
   const content = {
@@ -25,7 +22,7 @@ async(() => {
 
 ## 📝 Blogs
 
-- Personal website and blog: https://zhenye-na.github.io/
+- Personal website and blog: https://blog.15weblove.com/
 - Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
 - [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
 
